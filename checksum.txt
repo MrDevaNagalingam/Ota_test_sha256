@@ -1,1 +1,1 @@
-97fadf1e56f0234d2bc7fded9060f1346a645f7aaf4df20c75b6d474f34b314d  Ota_test-main.zip
+7ec801017aa60180437898264f5cf0a9fc28b4db29791ceeecb9e9f10dc9bf93  Ota_test.tar.gz
