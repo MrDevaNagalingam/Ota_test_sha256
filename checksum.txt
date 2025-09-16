@@ -1,1 +1,1 @@
-9f1df32fa8438f1fec1a98d15fc6657e5c2aff6b98c76f0d694dcc0ea900837e  Ota_test-main.zip
+0a989ef2e02f27558db2bbfbab0423d7b2f77b737c25c95d05a10a40aa32e921  Ota_test-main.zip
